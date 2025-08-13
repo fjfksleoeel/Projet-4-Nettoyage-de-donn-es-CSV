@@ -1,2 +1,2 @@
-Dago ourega : j'ai crée trois classe FichierCSV.java, FichierCSV.java ,Outils.java
+Dago ourega : j'ai crée trois classe FichierCSV.java, Main.java ,Outils.java
 Josue Joachim: j'arrive à creer deux(2) classes:Nettoyages.Java ; ReglesNettoyages.java
