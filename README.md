@@ -1,6 +1,10 @@
  le nom du projet:  Projet-4-Nettoyage-de-donn-es-CSV
 les noms des membres: Dago Ourega
                       Josue Joachim
+
+
+
+                      
 les fonctionnalités développées : 
           Sélection de fichiers via l’explorateur
           Choix du CSV d’entrée et du CSV de sortie avec JFileChooser (filtre .csv).
