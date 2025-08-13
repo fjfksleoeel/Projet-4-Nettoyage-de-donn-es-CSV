@@ -30,4 +30,10 @@ public class NettoyeurCSV {
                 if (!hasMissing) out.add(row);
             } else {
                 out.add(row);
+            }
+        }
+        return out;
+    }
+}
+ 
  
